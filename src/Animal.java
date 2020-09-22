@@ -5,5 +5,6 @@ public class Animal {
    public Animal(String nome, int idade){
       this.idade = idade;
       this.nome = nome;
+
    }
 }
